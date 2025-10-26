@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HelloDocker\\testapi\\TestApi.csproj": {}
+    "C:\\HelloDocker\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "C:\\HelloDocker\\testapi\\TestApi.csproj": {
+    "C:\\HelloDocker\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HelloDocker\\testapi\\TestApi.csproj",
+        "projectUniqueName": "C:\\HelloDocker\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "C:\\HelloDocker\\testapi\\TestApi.csproj",
+        "projectPath": "C:\\HelloDocker\\TestApi\\TestApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\HelloDocker\\testapi\\obj\\",
+        "outputPath": "C:\\HelloDocker\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

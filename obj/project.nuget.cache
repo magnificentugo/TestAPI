@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d4lw18zDwQ0e25UZE7TSz7k30UZS9nGslalN/I17uF1PAovwfC0L7e5gSiyl0WrZnSQHkN6A7NiyXz+4MhdOw==",
+  "dgSpecHash": "Xzu5Ws7JCd3bK7usLCtfFNSBc8paZs6eds4A7j7jnBShFxYi4VkYktY9n6+4lqBZ40GlgD2RvjzKds6iAXiLhg==",
   "success": true,
-  "projectFilePath": "C:\\HelloDocker\\testapi\\TestApi.csproj",
+  "projectFilePath": "C:\\HelloDocker\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

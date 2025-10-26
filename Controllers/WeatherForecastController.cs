@@ -23,5 +23,11 @@ namespace TestApi.Controllers
         {
             return Ok(new { status = "TestApi trial mode running fine!", version = "v1.0" });
         }
+
+        [HttpGet("Trial-Seg-ment")]
+        public IActionResult GettrialSEG()
+        {
+            return Ok(new { status = "TestApi trial-segment mode running fine!", version = "v1.0" });
+        }
     }
 }
